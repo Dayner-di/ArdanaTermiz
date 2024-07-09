@@ -267,9 +267,9 @@ img {
 }
 .box5 {
 	padding: 40px;
-	width: 250px;
+	width: 280px;
 	height: 330px;
-
+	font-size: 20px;
 	
 	
 	text-align: center;
@@ -278,18 +278,18 @@ img {
 	padding: 30px;
 	width: 250px;
 	height: 330px;
-	
+	font-size: 20px;
 	
 
 	
 }
 .box7 {
 	
-	padding: 60px;
+	font-size: 20px;
 	width: 250px;
 	height: 330px;
-	padding-bottom: 60px;
 	
+	padding: 40px;
 	text-align: center;
 }
 .ret2 {
@@ -298,7 +298,7 @@ img {
 }
 .ret {
 	width: 160px;
-	padding: 10px;
+	
 }
 
 
