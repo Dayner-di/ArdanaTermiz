@@ -267,9 +267,9 @@ img {
 }
 .box5 {
 	padding: 40px;
-	width: 280px;
+	width: 250px;
 	height: 330px;
-	font-size: 20px;
+	
 	
 	
 	text-align: center;
@@ -278,14 +278,14 @@ img {
 	padding: 30px;
 	width: 250px;
 	height: 330px;
-	font-size: 20px;
+	
 	
 
 	
 }
 .box7 {
 	
-	font-size: 20px;
+	
 	width: 250px;
 	height: 330px;
 	
@@ -536,10 +536,16 @@ img {
 	 .text2 {
 		font-size: 20px;
 		
-		width: 110%;
+		width: 120%;
 	 }
+	.box5 {
+		font-size: 20px;
+	}
+	.box6 {
+		font-size: 20px;
+	}
 	 .box7 {
-		margin-bottom: 30px;
+		font-size: 20px;
 	 }
 
 
